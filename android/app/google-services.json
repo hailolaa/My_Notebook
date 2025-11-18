@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47201384988",
+    "project_id": "hailolaa-mynotes-project",
+    "storage_bucket": "hailolaa-mynotes-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47201384988:android:8b980746ba6ed60c3efdd9",
+        "android_client_info": {
+          "package_name": "com.example.my_notebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCca1764jT5AP490WiBLYaugr9dx7F0HPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
